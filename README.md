@@ -1,6 +1,7 @@
 # LearnJavaDatabase
 
-####Sklep z grami
+**Sklep z grami**
+
 Podział panelu na użytkownika i admina. Użytkownik ma mieć dostęp do wszytskich dostępnych gier razem z cenami(przyjmij, że w bazie nie będzie więcej niż 65 000 produktów), 
 może również wyświetlić listę na podstawie kategorii. Admin musi dodatkowo mieć opcję dodawania nowych gier, updatowania cen, usuwania/ukrywania gier z bazy danych, 
 wyświetlanie wszystkich gier alfabetycznie. Dodaj również pracowników odpowiedzialnych za konkretne kategorie gier.
