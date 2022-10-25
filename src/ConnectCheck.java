@@ -9,7 +9,7 @@ public class ConnectCheck {
 
         conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/myDB?useSSL=false&characterEncoding=utf8",
                                         "root",
-                                    "admin");
+                                    "xvpVPoWbop8Mf3y");
         } catch (SQLException e) { 
             e.printStackTrace(); 
         }finally {
